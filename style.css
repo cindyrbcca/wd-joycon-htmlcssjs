@@ -1,5 +1,6 @@
 :root {
     scroll-behavior: smooth;
+    display: flex;
 }
 
 :root {
