@@ -8,9 +8,11 @@
 .footer .NPMNama {
     padding-top: 25px;
     border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+    text-align: right;
 }
 
 .footer .credits {
     font-size: 13px;
     padding-top: 5px;
+    text-align: right;
 }
