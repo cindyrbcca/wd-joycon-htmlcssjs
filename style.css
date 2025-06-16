@@ -5,6 +5,7 @@
 
 :root {
     --default-color: #444444;
+    --surface-color: #ffffff;
 }
 .footer .NPMNama {
     padding-top: 25px;
